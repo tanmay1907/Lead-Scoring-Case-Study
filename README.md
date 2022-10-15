@@ -6,7 +6,7 @@ An education company named X Education sells online courses to industry professi
 - Cleaning Data
 - EDA
 - Creating Dummy variables
-- Splitting data into train and test set
+- Splitting data into train and test set in 70:30 ratio respectively.
 - Building Model
 - Making Predictions
 - Model Evaluation
